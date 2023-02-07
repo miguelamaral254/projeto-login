@@ -79,18 +79,20 @@ div.field > label {
 div.field > span {
     color: white;
     font-size: 2em;
-    width: 40px;
+    width: 35px;
+    margin-right: 7px;
     padding: 1px;
 }
 div.field > input {
     background-color: var(--green-pass);
     font-size: 1em;
+    margin: auto;
     height: 100%;
     border: none;
     border-radius: 5px;
     padding: 4px;
-    width: calc(100% - 45px);
-    transform: translateY(-11.5px);
+    width: calc(100% - 47px);
+    transform: translateY(-12px);
 }
 div.field > input:focus-within {
     background-color: white;
