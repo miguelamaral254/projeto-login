@@ -14,6 +14,7 @@
     }
     section#login {
         width: 90vw;
+        height: 260px;
 
     }
     section#login > div#img {
@@ -35,6 +36,7 @@
     
     section#login {
         width: 990px;
+        height: 350px;
     }
     section#login >div#img {
         float: right;
@@ -52,6 +54,7 @@
     }
     div#form > p {
         font-size: 1.2em;
+        margin: 20px 0px;
     }
 
     
